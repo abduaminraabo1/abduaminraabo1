@@ -1,16 +1,51 @@
-## Hi there 👋
+# Abdul Rabo 👋
 
-<!--
-**abduaminraabo1/abduaminraabo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mawaƙi • Self-Taught Developer • 🇳🇬
 
-Here are some ideas to get you started:
+> *"Ba a koyar da ni ba — ni kaɗai na koyar da kaina."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 Ni Waye
+
+- ✍🏽 Na kirkira **wakoki** cikin Hausa da Turanci
+- 💻 **Self-taught** web developer — komai da hannuna
+- 🚀 Founder of **Sabon Tafiya**
+- 📧 abduaminraabo@gmail.com
+
+---
+
+## 💻 Tech Stack
+
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+
+
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+
+
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+
+
+
+---
+
+## 🌟 Yanzu Haka
+
+- 🔨 Building **Sabon Tafiya**
+- ✍🏽 Writing new **poetry** — Hausa & English mix
+- 📖 Learning every day
+
+---
+
+*Tafiya tana ci gaba — The journey never stops. 🚀*
